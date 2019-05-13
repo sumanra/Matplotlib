@@ -1,12 +1,5 @@
-﻿# Unit 5 | Assignment - The Power of Plots
 
-## Background
-
-What good is data without a good plot to tell the story?
-
-So, let's take what you've learned about Python Matplotlib and apply it to some real-world situations. For this assignment, you'll need to complete **1 of 2** Data Challenges. As always, it's your choice which you complete. _Perhaps_, choose the one most relevant to your future career.
-
-## Option 1: Pyber
+## Pyber
 
 ![Ride](Images/Ride.png)
 
